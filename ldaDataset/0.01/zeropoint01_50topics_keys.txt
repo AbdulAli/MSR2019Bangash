@@ -1,0 +1,50 @@
+0,0.0002,loss epoch acc activation the model import from val_loss eta batch_size keras val_acc and accuracy epochs for model.add(dense optimizer metrics ,Tuning optimization values
+1,0.0002,the theta for function and gradient cost return alpha matrix code this def with that you descent end\n but not ,gradient descent
+2,0.0002,nan sub data nan\n num values let missing value the factor error true code levels column model columns this int ,error margin
+3,0.0002,def for the return state information cell batch_size with dtype seq name class lstm rnn outputs initial_state import tf.float none ,GARBAGE
+4,0.0002,type layer conv top name n\t bottom net loss caffe solver.cpp param output pool the net.cpp iteration lr_mult n\t\t hdf ,GARBAGE
+5,0.0002,file line error the for step return with def weights loss net shape import code batch_size function name biases data ,input layer weights
+6,0.0002,import from for name print def numpy data code true,panda
+7,0.0002,double new int public string for return var t\t static n\t\t class void n\t private code import weights value for(int ,rubbish
+8,0.0002,the and you for that this data can model have with are use not but using your which there from ,rubbish
+9,0.0002,the and you that for this with are your have can not network training data but neural which layer learning ,neural network
+10,0.0002,for cost import epoch def tensorflow return the hidden layer feed_dict with shape none accuracy code and output weights name ,tensorflow
+11,0.0002,new int t\t double for float error tmp/mahout-work-cloudera t}\n info t\t\t public iwc t\n t\t\n void import news-bydate file include ,GARBAGE
+12,0.0002,file line the usr/local/lib/python return module call traceback device name lib/python error with recent tensorflow most for not task job:localhost/replica ,Python-tensorflow
+13,0.0002,the and you for that are this can have with but learning would not some there your from which like ,rubbish
+14,0.0002,the and you data for that this with training have your model are not test set can using but use ,training and test set
+15,0.0002,the and you for data that this have are with features can feature not your use which each model but ,model features
+16,0.0002,the for and import from with model using this data you clf that can svm use kernel print score test ,svm
+17,0.0002,the attribute new file weka error code and azure this from class string using with instances int import get data ,azure
+18,0.0002,the and for you that this with have data can are array each not node from but all use file ,rubbish
+19,0.0002,the and for you that this output layer input network with have are neural can weights your but hidden not ,input layer weights
+20,0.0002,the for import return and def code plot from function here matrix numpy error data theta alpha description with image ,Numpy-theta-alpha
+21,0.0002,for def return import print loss size the data class pytorch code numpy from error range out echo init__(self epoch ,numpyplot
+22,0.0002,the and you for data that this training are your have with set model can not use test using but ,training dataset
+23,0.0002,def import return the for from loss and tensorflow predictions labels mode batch_size code dtype steps dataset estimator print with ,Tensorflow-prediction
+24,0.0002,import image from none for the images convolution def and return img t\t numpy shape code size data height width ,convolutional
+25,0.0002,the and you for that this data with model have training are not can your but use using will would ,training model
+26,0.0002,import line file the from for return array def and error call module not this most dtype valueerror print recent ,dtype value error
+27,0.0002,the and you that for this have with are can data not your but use which each using will how ,rubbish
+28,0.0002,the with loss for and training shape accuracy name tensorflow feed_dict import def tf.placeholder(tf.float return weights none layer conv step ,Tensorflow-training dataset
+29,0.0002,the and you this python for tensorflow from with that file not install using can have use but your run ,Tensorflow-python
+30,0.0002,the and this data for file can azure have from with you using that not code but use input model ,azure
+31,0.0002,data the for class column test and male code female error matrix ttrain-auc ttest-auc label gender age columns function row ,male_female column wth
+32,0.0002,the run error python file with step net from install training running nbsp import following for version localhost this code ,intalling python
+33,0.0002,the for and word from this with words import column can that have columns feature text matrix you vector using ,feature vector
+34,0.0002,the and you for that data this have are with can not your each image use from which but will ,rubbish
+35,0.0002,conv the activation padding none shape input layer name model output strides same relu dense and with this return keras ,keras
+36,0.0002,import from the for and y_train random_state x_train x_test clf with sklearn model y_test print test score code this numpy ,Numpy-taining model
+37,0.0002,the and for this from text have with data that new spark can use you using import model not documents ,spark
+38,0.0002,the data true error false model and train method for test using class package function with code type fit caret ,caret
+39,0.0002,the and you for that this have are data with can your not but use which would learning some will ,rubbish
+40,0.0002,the and for you class that data this have with training are test your set can train not classifier classes ,classifier
+41,0.0002,the and for you that this can have are with use not but which some like your from would data ,rubbish
+42,0.0002,int for float col const return the double matrix row void std::vector file end\n code vector vectlen this operation error ,rubbish
+43,0.0002,import for from return the def print data pandas columns this numpy not code array and column features with feature ,Panda Numpy
+44,0.0002,the and image for images this with that you array have input from shape data but can are not using ,images
+45,0.0002,the and you that for this are data with can have your not but which will each from would use ,rubbish
+46,0.0002,val import tat from the model new for spark batch_size and target_size n\tat data file code anonfun class_mode line error ,spark
+47,0.0002,the model activation layer from input import and dense keras with shape for output have batch_size you this lstm none ,keras
+48,0.0002,the and you for that can this with have but are data image use not your using from model learning ,model training
+49,0.0002,the and for that you function this output network with are have not layer training but your error weights learning ,input layer weights

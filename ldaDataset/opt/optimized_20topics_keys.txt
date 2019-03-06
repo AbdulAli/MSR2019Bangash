@@ -1,0 +1,20 @@
+0,0.06411,image images object description here from the img size pixels pixel detection height width for color opencv face and dataset ,image processing
+1,0.03246,activation loss model import keras from conv none dense batch_size shape acc input layer epoch optimizer epochs model.add(dense input_shape output ,loss function
+2,0.2599,the data training and model set test for train you your accuracy with dataset using that have this not validation ,trainng dataset and model accuracy
+3,0.04824,function theta gradient the cost for loss error alpha descent sub value regression rate learning weights end\n iteration matrix code ,gradient descent 
+4,0.02013,new int double val for string t\t public return import var float n\t\t void static const code n\t class t\t\t ,nonsense
+5,0.02818,loss tensorflow shape with name feed_dict epoch import for def none accuracy dtype step return batch_size tf.float tf.placeholder(tf.float training cost ,training cost
+6,0.0863,class classifier classification tree classes feature decision probability attribute for svm weka label features node instances binary bayes classifiers attributes ,classification models
+7,0.05075,data column columns import array values categorical pandas features dataframe col dataset feature for row float from dtype numpy convert ,importing data
+8,0.05407,import from y_train x_train sklearn print clf random_state for x_test y_test numpy score fit code array def np\n return test_size ,scikit learn
+9,0.0895,the file python and from using run model code error tensorflow this with azure not install use can version for ,installations
+10,0.04959,user time data day item items predict users date series price product rating month based for customer products year days ,handling date and time
+11,0.85734,the and this for you that with have can are not but your use which from each will using how ,nonsense
+12,0.07426,the data distance cluster points clustering matrix kernel clusters vector point pca each vectors mean svm number k-means between algorithm ,clustering
+13,0.0564,word words text for document documents sentence from list corpus vec sentences sentiment string vector dictionary name classifier new vectors ,sentiment analysis
+14,0.0255,line file return name usr/local/lib/python module import traceback call recent most error for tensorflow last):\n from lib/python def dtype shape ,exceptions
+15,0.02404,error data tat package factor method type true model levels true)\n class code null n\tat using spark caret variable variables ,spark caret
+16,0.02082,true precision false recall nan roc predicted positive for score curve plot auc confusion y_pred negative average threshold correct color ,optimizations
+17,0.03689,def import for return print numpy from np\n range code data else:\n class np.array error true)\n plt\n matplotlib.pyplot axis python ,data visualization
+18,0.47021,the and you that for are can this have with your but learning not some would which there use more ,nonsense
+19,0.06029,layer network output neural input weights hidden layers net type n\t activation conv neurons top name inputs networks loss bottom ,neural networks

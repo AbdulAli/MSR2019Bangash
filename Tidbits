@@ -1,0 +1,21 @@
+Stack overflow itself gives just three categories of machine learning tags but fe further digged down.
+
+Our tagging tachnique will help novice users reach experts of that domain e.g. algorithms tags are more frequesntly answered by professors. If a person writes a question about ML and adds the tag of ML only, the algorithm tag wont appear.
+
+
+Our technique will help increase users visibility to the right community. This way users will also get less negative feedback.
+
+Explain topics which are confusing.
+
+Threats to validity:
+To avoid biasness we did not add tags information while training LDA
+It should be noted that our technique finds topic on the basis of whole post not just question.
+
+
+Accuracy of our topics for 230 random posts is 66.5 %
+If we remove some outliers like ethnicity,tensorflow,sentiment analysis and caret
+our accuracy for suggesting tags becomes 72%.
+
+Further we find out that out of the 151 correctly identified topics in 230 posts, there are 86 such posts on Stackoverflow who don't have this tag.
+This means that out of 230 posts around 60% posts need our correctly identified topics as tags.
+

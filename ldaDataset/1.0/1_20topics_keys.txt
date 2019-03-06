@@ -1,0 +1,20 @@
+0,0.05,tmp/mahout-work-cloudera news-bydate slf self.assertalmostequal(trellis binding j:warn warfare self.assertalmostequal(tr self.assertalmostequal(em setia j-log deprivation org.slf openjdk-amd mahout_local self.assertalmostequal(gamma jar!/org/slf news-all\n hadoop_conf_dir u'warfare ,cloudera
+1,0.05,san tuesday francisco,rubbish
+2,0.05,the and for you that this with data have are can from not your but model use using which training ,rubbish
+3,0.05,mrr ikvmc t\telif csq t\t\tsubredditcategory.append org.apache.commons\n emitted tm_map(corpus cfs java.lang.noclassdeffounderror corpus.tmp s].\n tm_map(corpus.tmp found\n testsparse net:add no_won_matches_last number\t crosval seismic ,rubbish
+4,0.05,keras.layers.normalization.batchnormalization keras.layers.convolutional.conv keras.layers.core.activation tno leaners homes oaks/meadows imperial fprintf taking'),keras
+5,0.05,import def y_train print x_train line clf return random_state x_test from y_test sklearn np\n nan pandas numpy val test_size file ,scikit
+6,0.05,fbodygyro-bandsenergy fbodyacc-bandsenergy fbodyaccjerk-bandsenergy elseif dbl strcmp(config.forward_pass_scheme{idx config.pipeline_forward{length(config.pipeline_forward config.pipeline_backprop{length(config.pipeline_backprop config.weights{idx sed ford merc tibble config.kernel_size(conv_layer_c chevrolet u'the tbigcluster config.feature_map_sizes{idx dodge rsplit ,rubbish
+7,0.05,tat n\tat anonfun iwc anon tfeature\tx source)\n t,rubbish
+8,0.05,"visc index.\n aggr alsalgorithm nonexistent resample perf mse.test.mean result\n runtime learner datnps srt_lts boost_static_assert_msg lda_core.cc lda_core.lo cta bmr wno-unused-local-typedef abc\"")",rubbish
+9,0.05,"info:root:epoch t...\t area\tready train-mse built-up tsuper uint total_sqft bhk\tnan\t availability hansel area\t models{i t\""a tplot train-custom_metric tbuilt-up houston home/ktpl atrous_rates ",epoch
+10,0.05,loss import conv shape activation line def file name none batch_size return layer epoch tensorflow dtype optimizer keras input dense ,tensorflow keras
+11,0.05,build/lib.linux-x vectlen copying page_height pivotrow xcnt tworker-replica info\t tps-replica string_val build/temp.linux-x colon_count dash_count float_val dot_count job-dir t\tclean t\tmodule mulcross.c trainer.task ,rubbish
+12,0.05,ide i])*o iris.df row)\n eng strong\n negative\n weak\n anaconda\\envs\\python d:\\bin\\python host]\n dfm positive\n tcp msys tage home/amir/torch/install/share/lua toldpeak yes,anaconda
+13,0.05,triangleside amemalloc futex fopenmp fpic irabit/include idmlc-core/include iinclude funroll-loops wno-unknown-pragmas msse tm_map(docs wall instruction cxx futex_wake_private tospace futex_wait_private confmat ilpd ,rubbish
+14,0.05,"tobject ttrain-auc ttest-auc sdataid our/prp tensorflow/core/common_runtime/gpu/pool_allocator.cc tbl and/cc\n poolallocator titanic.full unsatisfied evicted_count organization eviction_rate put_count to/to\n datacolumn(\""col columns.add(new of/in\n hda ",rubbish
+15,0.05,que bank month_id desc household_id z.month_id z[(z.household_id v[v.month_id royal z['_prev c.ix[ind,rubbish
+16,0.05,input(j real\n calloc home/bme/caffe/data/dogs/data io.cpp output[p][k numhid perror sizeof(double n\t\t\ttype n\t\tdecay_mult n\tname calloc(alloc javaagent:sizeofag.jar moa.jar:weka.jar n\ttype n\t\tlr_mult dd(ii exit_failure deltao[k ,rubbish
+17,0.05,"numberlong clm shop tok nshop faa numberunique_val_col oid cea e-e name\"":\""aws-sdk-android\""}}",android
+18,0.05,double int t\t public void new static string const n\t\t t\t\t private float var t}\n mat for(int t\t\n t\n n\t\t\t ,rubbish
+19,0.05,"n\t top type bottom solver.cpp net.cpp lr_mult param pool num_output data\""\n decay_mult n\t\t net weight_filler bias_filler constant\""\n loss)\n nbsp label\""\n ",rubbish

@@ -1,0 +1,50 @@
+0,0.02482,def return for import print class else:\n range numpy init__(self code true)\n np\n elif true np.array axis none\n learning_rate pytorch ,Pytorch,Framework
+1,0.01938,scoring parameters for random_state clf n_jobs none score gridsearchcv verbose true param_grid max_depth parameter best grid n_estimators estimator return params ,Estimating parameters,Implementation
+2,0.03875,image description here plot color data for red n[![enter blue line points label plt\n https://i.stack.imgur.com matplotlib.pyplot enter graph green plotting ,Graph plotting,Implementation
+3,0.0918,array matrix shape data for input dtype row list float numpy with the column and rows into index arrays vector ,Numpy ,Framework
+4,0.03885,file files data for csv import line load read path format from directory text dataset folder save name txt convert ,Importing Data,Implementation
+5,0.01323,import from text vectorizer print sklearn.feature_extraction.text pipeline tfidf countvectorizer def true,Scikit,Framework
+6,0.01622,state action game reward states agent player actions for policy move learning reinforcement hmm algorithm games current board moves play ,Reinforcement learning,Area
+7,0.0083,var let t\n tfor t\t treturn return echo syn t\t\n def tdef t\tfor t\tif div else tif tprint not class ,nonsense,
+8,0.02691,user item items users product rating products customer recommendation for list based have ratings similarity movie recommender group recommendations rank ,Rating and Ranking applications,Implementation
+9,0.00978,val tat spark import new n\tat anonfun pipeline rdd dataframe string from iwc mllib pyspark labeledpoint scala model column label ,Spark,Framework
+10,0.00874,"type layer name top conv bottom net caffe param solver.cpp pool output net.cpp loss lr_mult hdf iteration data\""\n num_output decay_mult ",Caffe,Framework
+11,0.07512,network output layer neural input weights hidden layers function activation networks the and inputs neurons for training sigmoid bias outputs ,Neural networks,Area
+12,0.02107,python install sub version tensorflow pip from file installed import package error command windows sup run module build library environment ,Installations,Implementation
+13,0.04559,class true false score positive precision for recall classes accuracy negative probability classification predicted classifier threshold roc and probabilities confusion ,Classification,Algorithm
+14,0.03595,data pca distribution mean matrix probability variance gaussian components sigma principal covariance component likelihood normal dimensionality reduction normalization standard prior ,Data Normalization,Implementation
+15,0.01933,data package factor method levels type true class caret error set.seed pred function variable variables fit train true)\n iris newdata ,Caret,Framework
+16,0.01094,epoch cost for def feed_dict accuracy import batch_size return tensorflow with hidden layer loss batch_x and col out labels print ,Epoch,Implementation
+17,0.01877,theta function cost for gradient alpha return def grad matrix end\n descent sum code delta derivative regression end iterations temp ,Gradient descent,Implementation
+18,0.04725,word words text for document documents sentence vec vector sentiment corpus vectors sentences dictionary list each topic doc from spam ,Sentiment analysis,Area
+19,0.02404,model loss activation acc keras import batch_size from epoch epochs model.add(dense optimizer metrics val_loss sequential()\n verbose eta dense input_shape model.compile(loss ,Keras,Framework
+20,0.04527,memory time run gpu size for and data using cpu running speed with tensorflow process batch large use parallel ram ,ML Performance,Implementation
+21,0.40163,the and for that this are each from value values which with all have one can number how function first ,nonsense,
+22,0.02609,azure service web data script machine python api experiment module from learning studio cloud request server file google sql response ,Azure-Sql-Google,Framework
+23,0.00778,n\t n\t\t name for end\n n\t\t\t return col num row normalized vectlen end n\tepoch function setosa\n value temp size i])*o ,nonsense,
+24,0.02358,tensorflow name with shape feed_dict graph tf.placeholder(tf.float tf.float import none for loss def return dtype logits weights tensor variables batch ,Tensorflow graphs,Implementation
+25,0.0178,name entity text names string sentence entities for nlp extract ner person named pos list address language nltk like sentences ,Natural Language Processing,Area
+26,0.00672,int float const mat return include opencv vector double std::vector void char cv::mat cout auto endl,String manipulation techniques,Implementation
+27,0.04428,random feature tree features decision forest trees selection for best algorithm using importance number search classifier boosting split ensemble models ,feature selection,Implementation
+28,0.02241,conv none layer activation padding input dense shape convolution output strides model layers name relu keras same kernel_size size filters ,convolutional neural networks,Algorithm
+29,0.01198,tensorflow return def import labels from for device batch_size dtype predictions loss model with name mode steps task estimator job:localhost/replica ,loss function,Implementation
+30,0.01877,lstm sequence input rnn state cell output shape batch_size layer return_sequences sequences length embedding time outputs seq none inputs batch ,LSTM,Area
+31,0.01154,new double int public t\t string for static void class return t\t\t private import var n\t\t final t}\n weights t\n ,nonsense,
+32,0.00417,ttrain-auc for ttest-auc san chunks tensorflow/core/common_runtime/bfc_allocator.cc chunk tuesday francisco,tensorflow,Framework
+33,0.02167,attribute weka tree node instances attributes class information decision object instance arff yes nodes filter classifier numeric\n leaf new split ,classifier,Algorithm
+34,0.03264,time data series predict day date for event month have days year price next prediction window model events last timestamp ,time applications,Implementation
+35,0.06114,import from x_train print y_train numpy x_test np\n sklearn y_test for random_state data pandas code clf test_size dataset the pd\n ,numpy panda sklearn,Framework
+36,0.05864,image images the object img pixels size and for pixel detection width height cnn face network from recognition detect opencv ,image processing,Area
+37,0.05223,loss training learning gradient rate epoch step function error accuracy batch iteration cost descent after update weights iterations iter minibatch ,error and accuracy,Implementation
+38,0.02878,svm kernel linear libsvm support gamma vector rbf vectors space using function matlab kernels hyperplane points for margin parameter svms ,svm,Algorithm
+39,0.04654,regression model linear logistic variables variable predict fit coefficients values features target value function for prediction continuous models data correlation ,machine learning model,Implementation
+40,0.45538,the you and can use this model for that have your want with using how from like need will not ,nonsense,
+41,0.01302,nan missing values data nan\n value predicted mean apple age correct inf system.string foo column sex fruit imputer orange imputation ,ethnicity,Implementation
+42,0.20081,and learning for machine are the can that some data algorithm with this algorithms there have but would which about ,algorithms,Algorithm
+43,0.17376,the data training test model set and train for accuracy dataset validation testing your using prediction split with same trained ,training dataset,Implementation
+44,0.43085,the and this with not error for but code that using have when was i'm trying get problem tried from ,Code Errors,Implementation
+45,0.02059,line file module call recent usr/local/lib/python traceback most return lib/python last):\n error ipython-input raise anaconda not valueerror import exception name ,anaconda python,Framework
+46,0.03418,distance cluster clustering clusters data points k-means algorithm similarity point for nearest metric between kmeans knn distances euclidean each number ,Clustering,Algorithm
+47,0.66029,the you that and your are this not with for have can but will more would there some which one ,nonsense,
+48,0.21654,the features and for feature data have class classification classifier with you each can are label classes use dataset that ,feature classification,Implementation
+49,0.02491,columns column dataframe pandas categorical col values data import encoding return string def convert float true)\n hot pd\n variables dtype ,Handling dataframes,Implementation

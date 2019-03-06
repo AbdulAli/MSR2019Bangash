@@ -1,0 +1,20 @@
+0,0.0005,the and for you that this have can with are word words not use each your but text from features ,text features
+1,0.0005,the and you for that data this have are can with your not model but use which would will one ,rubbish
+2,0.0005,the for theta def return function and gradient cost import nan error code weights alpha with matrix this numpy print ,numpy
+3,0.0005,new int double the for string public class return attribute float code void var static t\t n\t const error this ,rubbish
+4,0.0005,the data and for model val error with test train using this true class method package type that function have ,rubbish
+5,0.0005,import the from for and data with sklearn clf y_train this random_state x_train model array print code using you x_test ,Sci-kit learn
+6,0.0005,the and you that for this with are have your data training can not network output but will model set ,data training
+7,0.0005,the and for you data class from this that with test model have using your training accuracy can set are ,testing data accuracy
+8,0.0005,the import for from and data this def with return you have print array column columns not code that pandas ,panda
+9,0.0005,the and for with tensorflow shape dtype this import def name model that from you return code not graph batch_size ,tensorflow
+10,0.0005,the and file for this you from with python that have using not can code import but error data use ,python
+11,0.0005,the model activation import from and keras input for layer with shape none dense this batch_size you have conv output ,keras
+12,0.0005,loss epoch acc the training accuracy for train and def import eta val_loss return val_acc cost hidden with error batch ,Epoch data
+13,0.0005,the and you for that this can have with data but are your not from use model learning will would ,model learning
+14,0.0005,conv layer the name shape type with for n\t top and none loss output padding net bottom accuracy input convolution ,convolution
+15,0.0005,image the for import true from def t\t name return node images print img t\t\t class and with code label ,images
+16,0.0005,file line the error module usr/local/lib/python import from tat call not this with recent traceback most return for python and ,python error
+17,0.0005,the and you for that this are can have with data your but not use some which would learning there ,rubbish
+18,0.0005,the and for you data that this with are can have matrix from each not function your which cluster points ,clustering
+19,0.0005,the and you that for this with are can not have your but function data which training will use using ,rubbish

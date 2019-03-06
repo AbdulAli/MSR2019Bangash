@@ -1,0 +1,20 @@
+0,0.0125,import the from for and data def return print line file array with numpy this code test not true using ,numpy
+1,0.0125,file line tensorflow name return usr/local/lib/python dtype def device tensor shape batch_size lib/python graph job:localhost/replica call traceback task dt_float import ,tensorflow python
+2,0.0125,"cluster clusters plot silhouette cmap n_clusters centroids min colors x_max kmeans centers jj[i ide y_max kmeans(n_clusters sklearn.cluster apr csv\""",clusters
+3,0.0125,sad happy i])*o clm month_id marlboro_mentol marlboro_red desc iris.df household_id happy\n partition lucky_strike_red marlboro_gold chesterfield_red lucky_strike_blue chesterfield_blue sad\n x_j z.month_id ,rubbish
+4,0.0125,new double int public string t\t var static void return n\t\t t\t\t private n\t t\n float instances t}\n class attribute ,rubbish
+5,0.0125,"t\t tdef t\t\t\t\t\t\t t\tprint t\t\t\t\t t\treturn t\t\t\t\t\t\t\t t\t\""\""\""\n t\tfor kernel_dim list_of_lists fbodygyro-bandsenergy fbodyacc-bandsenergy fbodyaccjerk-bandsenergy t\t\t\t\t\t t\t\tprint frame t\t\t\t n\texpected frames ",rubbish
+6,0.0125,activation loss model conv keras import layer none input shape batch_size dense acc from epoch epochs optimizer output padding model.add(dense ,keras
+7,0.0125,the and for you that this with data have are can not your but from use model using which training ,rubbish
+8,0.0125,nbsp let jpg union(test velocity func guard channel totalsize byte(s byte(s)\n elemsize tensortype(float devuser shop amemalloc nshop mlmodel miningfield var ,rubbish
+9,0.0125,n\t roc auc tpr curve fpr tobject thresholds t...\t area y_score area\tready tvalidation roc_auc built-up uint my_dict roc_curve tsuper num ,rubbish
+10,0.0125,factor package levels true pred error caret num set.seed method true)\n newdata end\n type trcontrol iris false variable null species ,caret
+11,0.0125,"name type layer top conv nan net bottom caffe param solver.cpp pool n\t loss net.cpp lr_mult hdf iteration data\""\n num_output ",caffe
+12,0.0125,male female age sex gender visc t,male_female wth
+13,0.0125,int const float mat opencv include double void std::vector img struct char cv::mat cout auto return endl,opencv
+14,0.0125,val spark tat attribute n\tat anonfun new numeric\n rdd dataframe mllib string iwc pyspark scala pipeline labeledpoint apache real\n anon ,apache scala
+15,0.0125,"system.string predicted correct york london numberlong reward action triangleside csp bleu protein t\t\tsubredditcategory.append t\telif self._w http://www.hockey-reference.com/leagues/nhl games.html\""",rubiish
+16,0.0125,vectlen col neptune pivotrow xcnt crossover jul cest phi(x tested_negative determinant pivot tested_positive newbranch cov normal kr,rubiish
+17,0.0125,file python azure install line error module tensorflow version service script import run pip web gpu command installed studio info ,azure python
+18,0.0125,loss def return theta shape cost import layer for weights epoch tensorflow name accuracy gradient with output feed_dict training error ,training error
+19,0.0125,word words text documents document sentence corpus vec sentences sentiment language nlp vocabulary doc dictionary nltk tf-idf topic tags tweets ,nltk

@@ -1,0 +1,20 @@
+0,0.0125,build/lib.linux-x copying info:tensorflow:loss sdataid sec)\n info:tensorflow:global_step/sec negative\n normal foo positive\n true_pos_m csp unsurveyed test_frame_m train_frame_m tone real\n v(s tcp setia ,rubbish
+1,0.0125,true,rubbish
+2,0.0125,input(j pylearn row)\n file_count fizz weight_ouput suv perplexity sedan self.theta cola hood linearlayer weights_gradient newstart buzz no_dims sedans subgrad suvs ,rubbish
+3,0.0125,import from print y_train x_train clf random_state sklearn def x_test y_test numpy return score np\n y_pred scoring test_size none array ,scikit
+4,0.0125,let guard self.assertalmostequal(trellis func pay src pay_amt title bill_amt j&q t&rct bleu s&source esrc self.assertalmostequal(tr web&cd t\t\tsubredditcategory.append ved t\telif cad ,rubbish
+5,0.0125,n\t t\t t\t\t n\t\t n\t\t\t tdef tfor t\t\t\t num t\t\t\t\t t\n t\t\t\t\t\t t\t\n pose t\t\t\t\t\t\t treturn t\tfor t\tprint t\tif a\t ,rubbish
+6,0.0125,tmp/mahout-work-cloudera nbsp news-bydate sad happy ide slf marlboro_mentol marlboro_red happy\n lucky_strike_blue binding lucky_strike_red marlboro_gold chesterfield_red devuser chesterfield_blue j:warn sad\n eng ,rubbish
+7,0.0125,factor package levels caret set.seed true)\n pred null newdata iris true trcontrol method type num age false verbose rep species ,caret
+8,0.0125,the and for import from this file with data you that not have error line code using model can but ,rubbish
+9,0.0125,line file val usr/local/lib/python device lib/python job:localhost/replica task dt_float node traceback recent run_metadata)\n c:\\programdata\\anaconda last):\n run\n kwargs)\n options site-packages/tensorflow/python/client/session.py module ,python
+10,0.0125,the and for you that this with data are have can your not but model training from use using which ,model training
+11,0.0125,tat n\tat anonfun attribute numeric\n iwc echo san tuesday francisco,rubbish
+12,0.0125,the and you for that this can have are with data not but use your which would some like from ,rubbish
+13,0.0125,"vectlen unsupported tensorflow/contrib/lite/toco/import_tensorflow.cc operation converting mrr united-states pivotrow private xcnt examples/sec calloc talabama\t tal\t info:tensorflow:average csq phi(x http://www.hockey-reference.com/leagues/nhl games.html\""",tensorflow
+14,0.0125,shape loss tensorflow name def return import feed_dict batch_size accuracy none dtype tf.float epoch with layer conv tf.placeholder(tf.float training step ,tensorflow
+15,0.0125,"type top layer conv name bottom net caffe param solver.cpp pool net.cpp lr_mult n\t hdf loss iteration data\""\n num_output decay_mult ",rubbish
+16,0.0125,theta double int new return public void alpha string static var float const cost t\t grad end\n private gradient mat ,gradient descent
+17,0.0125,activation loss import model conv keras none layer epoch batch_size shape input dense from def acc epochs optimizer return output ,keras
+18,0.0125,span usr/local/matlab/r kbd pears oranges a/bin/glnxa fruitpriceday leaners list_of_lists tok div shop holdings nshop tensorflow/core/common_runtime/gpu/pool_allocator.cc fruits train_df['question poolallocator democrats republicans ,rubbish
+19,0.0125,"nan nan\n info:root:epoch union(test patient graduate train-mse dj_dt testing_set nan]\n ndcg info:tensorflow:evaluation tf\t tg\t z_l yes\""",epoch
