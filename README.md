@@ -3,7 +3,13 @@ Paper Title: What do developers know about machine learning: a study of ML discu
 
 This is the dataset extracted for machine learning posts on stackoverflow from https://empirical-software.engineering/projects/sotorrent/
 
-Tutorial followed to configure mallet:- https://programminghistorian.org/en/lessons/topic-modeling-and-mallet
+The file (lda.txt) generated from SOTorrent dataset having all Stackoverflow machine learning posts is available at:-
+https://drive.google.com/file/d/1uvF88rV4fi9tlABy5KuTJQbSRisa52Wr/view?usp=sharing
+
+
+First use lda.txt to convert it into mallet format i.e. inputfile.mallet.
+Tutorial followed to configure mallet and generate inputfile.mallet:- https://programminghistorian.org/en/lessons/topic-modeling-and-mallet
+
 
 After configuring mallet and reconstructing our data into topics, we run mallet with eight combinations on SOTorrent dataset.
 
