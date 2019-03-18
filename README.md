@@ -38,6 +38,8 @@ The dataset for generating graphs in RQ2 and RQ3 are available in ldaDataset fol
 RQ3: 
 1. Manual Questions that were analyzed with their Question IDs are available in Questions.ods
 2. Tidbits.txt shows a brief summary of what was extracted from Questions.ods
+3. The ViewCount+AnswerCount graphs have been produced using the following file:
+https://drive.google.com/file/d/1uy0vRsW8C3BJWmvwITuVe51cBmikOD9Y/view?usp=sharing
 
 RQ4:
 1. Considering Questions.ods, the labels which we manually entered on Stackoverflow are for those Questions Ids which have column:DoesStackoverflowHaveThisTag? as FALSE.
